@@ -41,16 +41,30 @@ This repository provides a structured approach to tracking information related t
 
 *** Usage
 - Use the org-mode templates in =sessions/=, =contacts/=, and =kb/= directories to track information
-- Run these scripts for managing the repository:
+- Use the Makefile to manage repository tasks:
   #+begin_src shell
-  # Process all data and generate visualizations
-  ./update.sh
+  # Show available commands
+  make
   
-  # Lint org files with org-lint
-  ./lint-org.sh
+  # Install dependencies
+  make install
+  
+  # Process all data and generate visualizations
+  make update
+  
+  # Lint org files
+  make lint
   
   # Tangle all org files to extract source code
-  ./tangle-org.sh
+  make tangle
+  
+  # Process specific data
+  make process-sessions
+  make process-contacts
+  make process-knowledge
+  
+  # Clean generated files
+  make clean
   #+end_src
 
 ** Features
