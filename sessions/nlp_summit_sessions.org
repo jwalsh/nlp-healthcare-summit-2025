@@ -1,0 +1,886 @@
+#+TITLE: NLP Summit Healthcare 2025 Sessions
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* NLP Summit Healthcare 2025 Sessions
+
+** Day 1 - Tuesday, April 1
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S1
+:END:
+- Title: Integrating Document Understanding, Reasoning, and Conversational Medical LLMs to Build Patient Journeys and Cohorts
+- Track: Medical LLMs
+- Date: 2025-04-01
+- Time: 12:05 pm - 12:25 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: David Talby
+- Organization: John Snow Labs
+- Role: CEO
+
+*** Content
+- Description: This session explores how document understanding, reasoning, and conversational abilities of medical LLMs can be integrated to build comprehensive patient journeys and define cohorts.
+- Key Topics: Document Understanding, Reasoning, Conversational Medical LLMs, Patient Journeys, Cohort Building
+- Technologies Discussed: Medical LLMs, NLP
+- Healthcare Applications: Clinical Decision Support, Medical Research
+
+*** Notes
+- 
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S2
+:END:
+- Title: PaliGemma-CXR: Adapting an Open-Weight Vision-Language Model for Chest X-ray Interpretation
+- Track: Medical Imaging & NLP
+- Date: 2025-04-01
+- Time: 12:25 pm - 12:45 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Sahar Kazemzadeh
+- Organization: Google
+- Role: Software Engineer, Health AI
+
+- Name: Andreas Steiner
+- Organization: Google
+- Role: Research Engineer
+
+*** Content
+- Description: This presentation covers the adaptation of the open-weight vision-language model PaliGemma for chest X-ray interpretation.
+- Key Topics: Vision-Language Models, Chest X-ray Interpretation, Medical Imaging
+- Technologies Discussed: PaliGemma-CXR, Vision-Language Models
+- Healthcare Applications: Radiology, Medical Imaging Analysis
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S3
+:END:
+- Title: Transforming Functional Medicine with AI – Accuracy, Challenges, and Future Directions
+- Track: Functional Medicine
+- Date: 2025-04-01
+- Time: 12:45 pm - 1:05 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Michael Ash
+- Organization: Functional Mind
+- Role: Director & Co-Founder
+
+*** Content
+- Description: This session discusses how AI is transforming functional medicine, focusing on accuracy, challenges, and future directions.
+- Key Topics: Functional Medicine, AI in Healthcare, Challenges, Future Directions
+- Technologies Discussed: AI, NLP
+- Healthcare Applications: Functional Medicine, Personalized Healthcare
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S4
+:END:
+- Title: Using Generative AI for Data Extraction Clinical Support
+- Track: Clinical Applications
+- Date: 2025-04-01
+- Time: 1:05 pm - 1:25 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Chris Markson
+- Organization: Cigna Evernorth
+- Role: Data Science Senior Manager
+
+*** Content
+- Description: This presentation explores the application of generative AI for data extraction to provide clinical support.
+- Key Topics: Generative AI, Data Extraction, Clinical Support
+- Technologies Discussed: Generative AI, NLP
+- Healthcare Applications: Clinical Support, Data Extraction
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S5
+:END:
+- Title: Matching Patients and Answers to the Largest Clinical Guidelines Library in the World
+- Track: Clinical Guidelines
+- Date: 2025-04-01
+- Time: 1:25 pm - 1:45 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Vickie Reyes
+- Organization: Guideline Central
+- Role: Director of Informatics and Clinical Decision Support
+
+- Name: Dia Trambitas
+- Organization: John Snow Labs
+- Role: Head of Product
+
+*** Content
+- Description: This session discusses how to match patients and their questions to relevant information in the world's largest clinical guidelines library.
+- Key Topics: Clinical Guidelines, Patient Matching, Information Retrieval
+- Technologies Discussed: NLP, Information Retrieval Systems
+- Healthcare Applications: Clinical Decision Support, Evidence-Based Medicine
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S6A
+:END:
+- Title: Using Robotics and Generative AI Medical Language Models at the Point of Care
+- Track: Point of Care
+- Date: 2025-04-01
+- Time: 2:00 pm - 2:30 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Jonathan McCoy
+- Organization: vCare Companion
+- Role: Co-Founder & CEO
+
+*** Content
+- Description: This presentation explores how robotics and generative AI medical language models can be implemented at the point of care.
+- Key Topics: Robotics, Generative AI, Medical Language Models, Point of Care
+- Technologies Discussed: Robotics, Generative AI, Medical LLMs
+- Healthcare Applications: Clinical Care, Patient Interaction
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S6B
+:END:
+- Title: Chatbot: Empowering Medical Communication using AI
+- Track: Medical Communication
+- Date: 2025-04-01
+- Time: 2:00 pm - 2:30 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Ying Ding
+- Organization: University of Texas at Austin
+- Role: Bill & Lewis Suit Professor at School of Information, Dell Medical School
+
+*** Content
+- Description: This session discusses how AI chatbots can empower medical communication.
+- Key Topics: Chatbots, Medical Communication, AI
+- Technologies Discussed: Conversational AI, NLP
+- Healthcare Applications: Patient Communication, Medical Education
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S6C
+:END:
+- Title: AI-Enhanced Oncology Data: Unlocking Insights from EHRs with NLP and LLMs
+- Track: Oncology
+- Date: 2025-04-01
+- Time: 2:00 pm - 2:30 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Scott Newman
+- Organization: MiBA
+- Role: Senior VP, Life Sciences
+
+- Name: Zach Liu
+- Organization: MiBA
+- Role: Senior Research Scientist
+
+*** Content
+- Description: This presentation explores how NLP and LLMs can unlock insights from electronic health records (EHRs) in oncology.
+- Key Topics: Oncology Data, EHRs, NLP, LLMs
+- Technologies Discussed: NLP, LLMs, Data Analysis
+- Healthcare Applications: Oncology, Clinical Research
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S7A
+:END:
+- Title: Productizing Healthcare ChatBots with John Snow Labs' Medical LLM‑as‑a‑Judge
+- Track: Healthcare Chatbots
+- Date: 2025-04-01
+- Time: 2:35 pm - 3:05 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Chris Haddad
+- Organization: Amazon
+- Role: Machine Learning Solutions Architect
+
+*** Content
+- Description: This session discusses the productization of healthcare chatbots using John Snow Labs' Medical LLM-as-a-Judge approach.
+- Key Topics: Healthcare Chatbots, LLM-as-a-Judge, Productization
+- Technologies Discussed: Medical LLMs, NLP, Chatbots
+- Healthcare Applications: Patient Interaction, Clinical Support
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S7B
+:END:
+- Title: The Future of Clinician-Patient Relationships with Conversational Artificial Intelligence
+- Track: Clinician-Patient Relationships
+- Date: 2025-04-01
+- Time: 2:35 pm - 3:05 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Yee Ang
+- Organization: National Healthcare Group
+- Role: Consultant
+
+*** Content
+- Description: This presentation explores how conversational AI will shape the future of clinician-patient relationships.
+- Key Topics: Clinician-Patient Relationships, Conversational AI
+- Technologies Discussed: Conversational AI, NLP
+- Healthcare Applications: Patient Care, Clinical Communication
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S7C
+:END:
+- Title: Rules for Temporality in Medicine: A Focused Approach to Guiding LLM Logic
+- Track: Medical LLMs
+- Date: 2025-04-01
+- Time: 2:35 pm - 3:05 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Jonathan Gold
+- Organization: innoVet Health
+- Role: Director of Clinical Informatics
+
+*** Content
+- Description: This session discusses rules for temporality in medicine and how to guide LLM logic with a focused approach.
+- Key Topics: Temporality in Medicine, LLM Logic, Medical Rules
+- Technologies Discussed: LLMs, NLP, Rule-Based Systems
+- Healthcare Applications: Clinical Reasoning, Medical Documentation
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S8A
+:END:
+- Title: Transforming HCC Coding with Healthcare-Specific Language Models
+- Track: Medical Coding
+- Date: 2025-04-01
+- Time: 3:10 pm - 3:40 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Ritwik Jain
+- Organization: John Snow Labs
+- Role: Director of Payers
+
+- Name: Hasham Ul Haq
+- Organization: John Snow Labs
+- Role: Sr Machine Learning Engineer
+
+*** Content
+- Description: This presentation explores how healthcare-specific language models can transform Hierarchical Condition Category (HCC) coding.
+- Key Topics: HCC Coding, Healthcare-Specific Language Models
+- Technologies Discussed: Medical LLMs, NLP
+- Healthcare Applications: Medical Coding, Billing, Risk Adjustment
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S8B
+:END:
+- Title: Generative AI in Life Science: Building Production Ready Solutions
+- Track: Life Sciences
+- Date: 2025-04-01
+- Time: 3:10 pm - 3:40 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Shravan Koninti
+- Organization: Novartis
+- Role: Associate Director – DSAI
+
+*** Content
+- Description: This session discusses how to build production-ready generative AI solutions in life sciences.
+- Key Topics: Generative AI, Life Sciences, Production Solutions
+- Technologies Discussed: Generative AI, NLP, MLOps
+- Healthcare Applications: Life Sciences Research, Drug Discovery
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S8C
+:END:
+- Title: Adversarial-Cooperative LLMs: Transforming Medicare Plan Selection for Seniors
+- Track: Healthcare Access
+- Date: 2025-04-01
+- Time: 3:10 pm - 3:40 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Molly Maskrey
+- Organization: Forte Analytics
+- Role: Senior Data Scientist
+
+*** Content
+- Description: This presentation explores how adversarial-cooperative LLMs can transform Medicare plan selection for seniors.
+- Key Topics: Adversarial-Cooperative LLMs, Medicare Plan Selection
+- Technologies Discussed: LLMs, Multi-Agent Systems
+- Healthcare Applications: Medicare Planning, Senior Healthcare
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S9A
+:END:
+- Title: Automating AI Governance for Healthcare Applications of Generative AI
+- Track: AI Governance
+- Date: 2025-04-01
+- Time: 3:45 pm - 4:15 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Ben Webster
+- Organization: NLPLogix
+- Role: Vice President of AI Solutions
+
+- Name: David Talby
+- Organization: Pacific AI
+- Role: CEO
+
+*** Content
+- Description: This session discusses approaches for automating AI governance in healthcare applications of generative AI.
+- Key Topics: AI Governance, Healthcare Applications, Generative AI, Automation
+- Technologies Discussed: Generative AI, Governance Systems
+- Healthcare Applications: Compliance, Ethical AI Use in Healthcare
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S9B
+:END:
+- Title: Revolutionizing Adverse Event Detection in Pharma Contact Centers with AI
+- Track: Pharmacovigilance
+- Date: 2025-04-01
+- Time: 3:45 pm - 4:15 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Devdatta Narote
+- Organization: Genentech
+- Role: Staff Data Scientist
+
+*** Content
+- Description: This presentation explores how AI can revolutionize adverse event detection in pharmaceutical contact centers.
+- Key Topics: Adverse Event Detection, Pharma Contact Centers, AI
+- Technologies Discussed: NLP, Machine Learning
+- Healthcare Applications: Pharmacovigilance, Patient Safety
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D1-S9C
+:END:
+- Title: Transforming Patient Engagement with AI‑Powered Personalization
+- Track: Patient Engagement
+- Date: 2025-04-01
+- Time: 3:45 pm - 4:15 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Ina Burgstaller
+- Organization: Bionabu
+- Role: Founder, Director
+
+*** Content
+- Description: This session discusses how AI-powered personalization can transform patient engagement.
+- Key Topics: Patient Engagement, AI-Powered Personalization
+- Technologies Discussed: AI, NLP, Personalization Algorithms
+- Healthcare Applications: Patient Engagement, Patient Experience
+
+*** Notes
+-
+
+** Day 2 - Wednesday, April 2
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S1
+:END:
+- Title: Benchmarks That Matter: Evaluating Medical Language Models for Real-World Applications
+- Track: Medical LLMs
+- Date: 2025-04-02
+- Time: 12:05 pm - 12:25 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Veysel Kocaman
+- Organization: John Snow Labs
+- Role: CTO
+
+*** Content
+- Description: This presentation focuses on meaningful benchmarks for evaluating medical language models in real-world applications.
+- Key Topics: Benchmarks, Medical Language Models, Real-World Applications
+- Technologies Discussed: Medical LLMs, Evaluation Metrics
+- Healthcare Applications: Clinical Decision Support, Medical Research
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S2
+:END:
+- Title: How Strong are Your Guardrails? Measuring Efficacy of AI Reliability Infrastructure
+- Track: AI Safety
+- Date: 2025-04-02
+- Time: 12:25 pm - 12:45 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Shreya Rajpal
+- Organization: Guardrails
+- Role: CEO
+
+*** Content
+- Description: This session discusses methods for measuring the efficacy of AI reliability infrastructure, focusing on guardrails for healthcare AI.
+- Key Topics: Guardrails, AI Reliability, Measurement Efficacy
+- Technologies Discussed: AI Safety Systems, Evaluation Methods
+- Healthcare Applications: Safe AI Deployment in Healthcare
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S3
+:END:
+- Title: Trustworthy Health AI: Challenges & Lessons Learned
+- Track: AI Trust
+- Date: 2025-04-02
+- Time: 12:45 pm - 1:05 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Krishnaram Kenthapadi
+- Organization: Oracle
+- Role: Chief Scientist, Clinical AI
+
+*** Content
+- Description: This presentation shares challenges and lessons learned in building trustworthy health AI systems.
+- Key Topics: Trustworthy AI, Health AI, Challenges, Lessons Learned
+- Technologies Discussed: AI, Trust Systems, Validation
+- Healthcare Applications: Clinical AI, Healthcare Systems
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S4
+:END:
+- Title: Testing for Bias of Large Language Models in Clinical Applications
+- Track: AI Ethics
+- Date: 2025-04-02
+- Time: 1:05 pm - 1:25 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Louis Ehwerhemuepha
+- Organization: Children's Hospital of Orange County
+- Role: Data Science Research Director
+
+*** Content
+- Description: This session discusses methods for testing bias in large language models when used in clinical applications.
+- Key Topics: Bias Testing, LLMs, Clinical Applications
+- Technologies Discussed: LLMs, Bias Detection Methods
+- Healthcare Applications: Ethical AI Use, Clinical Decision Support
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S5
+:END:
+- Title: The State of Audio Deepfakes & Deepfake Detection
+- Track: Security
+- Date: 2025-04-02
+- Time: 1:25 pm - 1:45 pm ET
+- Location: NLP Summit Healthcare 2025
+- Format: Presentation
+
+*** Speakers
+- Name: Yishay Carmiel
+- Organization: Meaning
+- Role: CEO
+
+*** Content
+- Description: This presentation covers the current state of audio deepfakes and methods for deepfake detection, with implications for healthcare.
+- Key Topics: Audio Deepfakes, Deepfake Detection
+- Technologies Discussed: Deepfake Technology, Detection Methods
+- Healthcare Applications: Secure Healthcare Communication, Authentication
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S6A
+:END:
+- Title: Three-Layer Fixed Entity Architecture in Graph RAG Multi-Agents in Reproductive Medicine
+- Track: Reproductive Medicine
+- Date: 2025-04-02
+- Time: 2:00 pm - 2:30 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Kais Zhioua
+- Organization: Tanit Healthcare Technologies
+- Role: CEO/Co-Founder
+
+*** Content
+- Description: This session discusses a three-layer fixed entity architecture for graph RAG multi-agents in reproductive medicine applications.
+- Key Topics: Graph RAG, Multi-Agents, Reproductive Medicine, Fixed Entity Architecture
+- Technologies Discussed: RAG, Graph Neural Networks, Multi-Agent Systems
+- Healthcare Applications: Reproductive Medicine, Fertility
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S6B
+:END:
+- Title: Building Agentic AI: RAG LLMs, Responsible AI, and Scalable LLMOps Practices
+- Track: LLMOps
+- Date: 2025-04-02
+- Time: 2:00 pm - 2:30 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Somya Rai
+- Organization: EXL
+- Role: Principal AI Architect
+
+- Name: Ashish Kudaisya
+- Organization: EXL
+- Role: Vice President of Digital Transformation
+
+*** Content
+- Description: This presentation explores building agentic AI with a focus on RAG LLMs, responsible AI practices, and scalable LLMOps.
+- Key Topics: Agentic AI, RAG LLMs, Responsible AI, LLMOps
+- Technologies Discussed: RAG, LLMs, LLMOps
+- Healthcare Applications: AI Systems in Healthcare, Operational AI
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S6C
+:END:
+- Title: Advancing Healthcare with AI-Driven Wearable Technology: Enhancing Patient Outcomes and Neurodiversity Support
+- Track: Wearable Technology
+- Date: 2025-04-02
+- Time: 2:00 pm - 2:30 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Mugdha Tasgaonkar
+- Organization: Medtronic
+- Role: Data Science Leader
+
+*** Content
+- Description: This session discusses how AI-driven wearable technology can enhance patient outcomes and support neurodiversity.
+- Key Topics: Wearable Technology, AI, Patient Outcomes, Neurodiversity Support
+- Technologies Discussed: Wearable Devices, AI, Sensors
+- Healthcare Applications: Remote Monitoring, Neurodiversity Support
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S7A
+:END:
+- Title: Generating SOAP Notes with AI: Enhancing Clinical Documentation Efficiency
+- Track: Clinical Documentation
+- Date: 2025-04-02
+- Time: 2:35 pm - 3:05 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Beau Tse
+- Organization: Amazon Web Services
+- Role: Partner Solutions Architect
+
+- Name: Shubanshu Dixit
+- Organization: John Snow Labs
+- Role: Solutions Architect
+
+*** Content
+- Description: This presentation explores how AI can enhance clinical documentation efficiency by generating SOAP notes.
+- Key Topics: SOAP Notes, AI, Clinical Documentation, Efficiency
+- Technologies Discussed: AI, NLP, Medical Documentation
+- Healthcare Applications: Clinical Documentation, Medical Records
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S7B
+:END:
+- Title: Anomaly Detection and Predictive Maintenance using Machine Learning (ML) and Artificial Intelligence (AI) in BioPharmaceutical Manufacturing
+- Track: BioPharmaceutical Manufacturing
+- Date: 2025-04-02
+- Time: 2:35 pm - 3:05 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Ravi Kiran Koppichetti
+- Organization: Novo Nordisk
+- Role: IT Data Engineer III
+
+*** Content
+- Description: This session discusses anomaly detection and predictive maintenance using ML and AI in biopharmaceutical manufacturing.
+- Key Topics: Anomaly Detection, Predictive Maintenance, Biopharmaceutical Manufacturing
+- Technologies Discussed: Machine Learning, AI
+- Healthcare Applications: Manufacturing Quality, Supply Chain
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S7C
+:END:
+- Title: Use of AI and LLM in Simulation Based Education
+- Track: Medical Education
+- Date: 2025-04-02
+- Time: 2:35 pm - 3:05 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Jabeen Fayyaz
+- Organization: The Hospital for Sick Children
+- Role: Associate Professor
+
+*** Content
+- Description: This presentation explores the use of AI and LLMs in simulation-based medical education.
+- Key Topics: AI, LLM, Simulation Based Education
+- Technologies Discussed: AI, LLMs, Simulation Technology
+- Healthcare Applications: Medical Education, Training
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S8A
+:END:
+- Title: Evaluating Large Language Models in Understanding Atomic Concepts of Medical Image-Series Textual Narratives
+- Track: Medical Imaging & NLP
+- Date: 2025-04-02
+- Time: 3:10 pm - 3:40 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Nicolay Rusnachenko
+- Organization: Bournemouth University
+- Role: Research Fellow
+
+*** Content
+- Description: This session discusses evaluating large language models' capacity to understand atomic concepts in medical image-series textual narratives.
+- Key Topics: LLMs, Medical Image-Series, Textual Narratives, Atomic Concepts
+- Technologies Discussed: LLMs, Evaluation Methods
+- Healthcare Applications: Radiology Reports, Medical Imaging
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S8B
+:END:
+- Title: UK Regulation and Compliance when Using Generative AI and Natural Language Processing in Healthcare
+- Track: Regulation & Compliance
+- Date: 2025-04-02
+- Time: 3:10 pm - 3:40 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Yasmin Karsan
+- Organization: Digital Clinical Safety Company
+- Role: Clinical Safety Officer and Founder
+
+*** Content
+- Description: This presentation explores UK regulation and compliance considerations when using generative AI and NLP in healthcare.
+- Key Topics: UK Regulation, Compliance, Generative AI, NLP in Healthcare
+- Technologies Discussed: Generative AI, NLP
+- Healthcare Applications: Regulatory Compliance, Safe AI Implementation
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S8C
+:END:
+- Title: Ethical Implications of Al in Patient Care Decisions: A Study on the Ethical Considerations of Using Artificial Intelligence to Make or Assist in Patient Care Decisions
+- Track: AI Ethics
+- Date: 2025-04-02
+- Time: 3:10 pm - 3:40 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Vivek Yadav
+- Organization: Presbyterian Health Services
+- Role: Senior Business System Analyst
+
+*** Content
+- Description: This session explores the ethical implications of using AI in patient care decisions.
+- Key Topics: Ethical Implications, AI, Patient Care Decisions
+- Technologies Discussed: AI, Decision Support Systems
+- Healthcare Applications: Clinical Decision Making, Patient Care
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S9A
+:END:
+- Title: Evaluating GenAI Applications in Healthcare
+- Track: GenAI
+- Date: 2025-04-02
+- Time: 3:45 pm - 4:15 pm ET
+- Location: NLP Summit Healthcare 2025 (Track A)
+- Format: Presentation
+
+*** Speakers
+- Name: Ouz Gencoglu
+- Organization: Root Signals
+- Role: Co-Founder & Head of AI
+
+*** Content
+- Description: This presentation discusses methods for evaluating generative AI applications in healthcare settings.
+- Key Topics: GenAI, Healthcare Applications, Evaluation
+- Technologies Discussed: Generative AI, Evaluation Frameworks
+- Healthcare Applications: Multiple Healthcare Contexts
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S9B
+:END:
+- Title: From Pixels to Insights: How Foundation Models and Vision-Language Models Are Redefining Radiology
+- Track: Radiology
+- Date: 2025-04-02
+- Time: 3:45 pm - 4:15 pm ET
+- Location: NLP Summit Healthcare 2025 (Track B)
+- Format: Presentation
+
+*** Speakers
+- Name: Vasantha Kumar Venugopal
+- Organization: School of AI, Amrita Vishwapeetham & CARPL.ai
+- Role: Adjunct Professor & Chief Medical Officer
+
+*** Content
+- Description: This session explores how foundation models and vision-language models are transforming radiology.
+- Key Topics: Foundation Models, Vision-Language Models, Radiology
+- Technologies Discussed: Foundation Models, Vision-Language Models
+- Healthcare Applications: Radiology, Medical Imaging
+
+*** Notes
+-
+
+*** Session Information
+:PROPERTIES:
+:ID: SESSION-D2-S9C
+:END:
+- Title: Revolutionizing Post-Acute Home Healthcare with Generative AI and Personalized Care Pathways
+- Track: Home Healthcare
+- Date: 2025-04-02
+- Time: 3:45 pm - 4:15 pm ET
+- Location: NLP Summit Healthcare 2025 (Track C)
+- Format: Presentation
+
+*** Speakers
+- Name: Ayindri Banerjee
+- Organization: Humana
+- Role: Data Science & AI Leader
+
+*** Content
+- Description: This presentation discusses revolutionizing post-acute home healthcare using generative AI and personalized care pathways.
+- Key Topics: Post-Acute Home Healthcare, Generative AI, Personalized Care Pathways
+- Technologies Discussed: Generative AI, Personalization Algorithms
+- Healthcare Applications: Home Healthcare, Post-Acute Care
+
+*** Notes
+-

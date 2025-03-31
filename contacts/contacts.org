@@ -1,0 +1,60 @@
+#+TITLE: Contacts Tracker
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* NLP Summit Healthcare 2025 Contacts
+
+** Contact Template
+:PROPERTIES:
+:ID: CONTACT-TEMPLATE
+:END:
+
+*** Contact Information
+- Name: 
+- Organization: 
+- Role: 
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: 
+- Technologies: 
+- Healthcare Specialties: 
+
+*** Interaction Notes
+- Date: 
+- Context: 
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Contact Network
+#+begin_src mermaid :file docs/contact-network.png :exports results
+graph TD
+    %% Add contacts and their relationships here
+    %% Example:
+    %% C1[Contact 1: Dr. Jane Smith] --> C2[Contact 2: John Doe]
+#+end_src
+
+** Python Processing
+#+begin_src python :tangle contacts/process_contacts.py :results output
+#!/usr/bin/env python3
+"""
+Process contact information for NLP Summit Healthcare 2025.
+"""
+
+def list_contacts():
+    """List all contacts from the data structure."""
+    # Implementation will be added as contacts are tracked
+    pass
+
+def find_related_contacts(interest):
+    """Find contacts related to a specific interest."""
+    # Implementation will be added as contacts are tracked
+    pass
+
+if __name__ == "__main__":
+    print("NLP Summit Healthcare 2025 Contact Processor")
+    # Add processing code here
+#+end_src

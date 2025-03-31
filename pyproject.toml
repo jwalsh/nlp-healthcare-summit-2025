@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "nlp-healthcare-summit-2025"
+version = "0.1.0"
+description = "Repository to track sessions, contacts, and knowledge base for NLP Summit Healthcare 2025"
+authors = ["jwalsh <jwalsh@example.com>"]
+readme = "README.org"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^2.0.0"
+networkx = "^3.0"
+matplotlib = "^3.6.0"
+scikit-learn = "^1.2.0"
+spacy = "^3.5.0"
+jupyter = "^1.0.0"
+beautifulsoup4 = "^4.11.0"
+requests = "^2.28.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0.0"
+black = "^23.0.0"
+flake8 = "^6.0.0"
+isort = "^5.12.0"
+mypy = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+process-sessions = "nlp_healthcare_summit_2025.scripts.process_sessions:main"
+process-contacts = "nlp_healthcare_summit_2025.scripts.process_contacts:main"
+process-knowledge = "nlp_healthcare_summit_2025.scripts.process_knowledge:main"

@@ -1,0 +1,47 @@
+#+TITLE: NLP Summit Healthcare 2025
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* NLP Summit Healthcare 2025
+[[https://www.nlpsummit.org/healthcare-2025/][NLP Summit Healthcare 2025]] tracking repository.
+
+** Overview
+This repository tracks sessions, contacts, and knowledge base topics for the NLP Summit Healthcare 2025 event.
+
+** Structure
+- =sessions/= - Information about conference sessions
+- =contacts/= - Details about speakers, attendees, and other contacts
+- =kb/= - Knowledge base topics and notes
+- =docs/= - Generated documentation and reports
+
+** System Model
+#+begin_src mermaid :file docs/system-model.png :exports results
+graph TD
+    A[NLP Summit Healthcare 2025] --> B[Sessions]
+    A --> C[Contacts]
+    A --> D[Knowledge Base]
+    
+    B --> B1[Tracks]
+    B --> B2[Presentations]
+    B --> B3[Workshops]
+    
+    C --> C1[Speakers]
+    C --> C2[Attendees]
+    C --> C3[Organizations]
+    
+    D --> D1[NLP Topics]
+    D --> D2[Healthcare Applications]
+    D --> D3[Research Areas]
+    D --> D4[Technologies]
+#+end_src
+
+** Usage
+- Update session information in the =sessions/= directory
+- Track contacts in the =contacts/= directory
+- Document knowledge base topics in the =kb/= directory
+
+** Tools
+- Org-mode with Babel for documentation
+- Mermaid for system and design modeling
+- Python with Poetry for dependency management and data processing

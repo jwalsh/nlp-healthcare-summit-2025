@@ -1,0 +1,62 @@
+#+TITLE: Knowledge Base Tracker
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* NLP Summit Healthcare 2025 Knowledge Base
+
+** Topic Template
+:PROPERTIES:
+:ID: TOPIC-TEMPLATE
+:END:
+
+*** Topic Information
+- Name: 
+- Category: [NLP/Healthcare/Research/Technology]
+- Related Sessions: 
+- Key Contacts: 
+
+*** Details
+- Description: 
+- Current State: 
+- Future Directions: 
+- Healthcare Applications: 
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- 
+
+** Knowledge Graph
+#+begin_src mermaid :file docs/knowledge-graph.png :exports results
+graph TD
+    %% Add topics and their relationships here
+    %% Example:
+    %% T1[Topic 1: Clinical NLP] --> T2[Topic 2: Named Entity Recognition]
+#+end_src
+
+** Python Processing
+#+begin_src python :tangle kb/process_knowledge.py :results output
+#!/usr/bin/env python3
+"""
+Process knowledge base information for NLP Summit Healthcare 2025.
+"""
+
+def list_topics():
+    """List all topics from the knowledge base."""
+    # Implementation will be added as topics are tracked
+    pass
+
+def find_related_topics(topic):
+    """Find topics related to a specific topic."""
+    # Implementation will be added as topics are tracked
+    pass
+
+if __name__ == "__main__":
+    print("NLP Summit Healthcare 2025 Knowledge Base Processor")
+    # Add processing code here
+#+end_src
