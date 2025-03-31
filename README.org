@@ -41,9 +41,16 @@ This repository provides a structured approach to tracking information related t
 
 *** Usage
 - Use the org-mode templates in =sessions/=, =contacts/=, and =kb/= directories to track information
-- Run the update script to process the data and generate visualizations:
+- Run these scripts for managing the repository:
   #+begin_src shell
+  # Process all data and generate visualizations
   ./update.sh
+  
+  # Lint org files with org-lint
+  ./lint-org.sh
+  
+  # Tangle all org files to extract source code
+  ./tangle-org.sh
   #+end_src
 
 ** Features
@@ -115,7 +122,7 @@ You can customize this repository by:
 - Python with Poetry for dependency management and data processing
 
 ** License
-[Your License Here]
+This project is licensed under the MIT License - see the [[./LICENSE][LICENSE]] file for details.
 
 ** Acknowledgments
 - NLP Summit Healthcare 2025 organizers and speakers
