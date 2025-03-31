@@ -1,0 +1,966 @@
+#+TITLE: NLP Summit Healthcare 2025 Speakers
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* NLP Summit Healthcare 2025 Speakers
+
+** David Talby
+:PROPERTIES:
+:ID: CONTACT-DAVID-TALBY
+:END:
+
+*** Contact Information
+- Name: David Talby
+- Organization: John Snow Labs / Pacific AI
+- Role: CEO
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Medical LLMs, NLP in Healthcare, Document Understanding
+- Technologies: Conversational AI, AI Governance
+- Healthcare Specialties: Clinical Decision Support, Patient Journeys
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Sahar Kazemzadeh
+:PROPERTIES:
+:ID: CONTACT-SAHAR-KAZEMZADEH
+:END:
+
+*** Contact Information
+- Name: Sahar Kazemzadeh
+- Organization: Google
+- Role: Software Engineer, Health AI
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Vision-Language Models, Medical Imaging Analysis
+- Technologies: PaliGemma-CXR, AI for Radiology
+- Healthcare Specialties: Chest X-ray Interpretation
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Andreas Steiner
+:PROPERTIES:
+:ID: CONTACT-ANDREAS-STEINER
+:END:
+
+*** Contact Information
+- Name: Andreas Steiner
+- Organization: Google
+- Role: Research Engineer
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Vision-Language Models, Open-Weight Models
+- Technologies: PaliGemma-CXR
+- Healthcare Specialties: Medical Imaging
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Michael Ash
+:PROPERTIES:
+:ID: CONTACT-MICHAEL-ASH
+:END:
+
+*** Contact Information
+- Name: Michael Ash
+- Organization: Functional Mind
+- Role: Director & Co-Founder
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Functional Medicine, AI in Healthcare
+- Technologies: AI Applications in Personalized Healthcare
+- Healthcare Specialties: Functional Medicine
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Chris Markson
+:PROPERTIES:
+:ID: CONTACT-CHRIS-MARKSON
+:END:
+
+*** Contact Information
+- Name: Chris Markson
+- Organization: Cigna Evernorth
+- Role: Data Science Senior Manager
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Data Extraction, Clinical Support
+- Technologies: Generative AI
+- Healthcare Specialties: Clinical Applications
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Vickie Reyes
+:PROPERTIES:
+:ID: CONTACT-VICKIE-REYES
+:END:
+
+*** Contact Information
+- Name: Vickie Reyes
+- Organization: Guideline Central
+- Role: Director of Informatics and Clinical Decision Support
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Clinical Guidelines, Information Retrieval
+- Technologies: NLP in Clinical Information Systems
+- Healthcare Specialties: Clinical Decision Support
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Dia Trambitas
+:PROPERTIES:
+:ID: CONTACT-DIA-TRAMBITAS
+:END:
+
+*** Contact Information
+- Name: Dia Trambitas
+- Organization: John Snow Labs
+- Role: Head of Product
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Clinical Guidelines, Information Access
+- Technologies: NLP, Information Retrieval
+- Healthcare Specialties: Clinical Decision Support
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Jonathan McCoy
+:PROPERTIES:
+:ID: CONTACT-JONATHAN-MCCOY
+:END:
+
+*** Contact Information
+- Name: Jonathan McCoy
+- Organization: vCare Companion
+- Role: Co-Founder & CEO
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Robotics in Healthcare, Point of Care
+- Technologies: Robotics, Generative AI, Medical Language Models
+- Healthcare Specialties: Point of Care Solutions
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ying Ding
+:PROPERTIES:
+:ID: CONTACT-YING-DING
+:END:
+
+*** Contact Information
+- Name: Ying Ding
+- Organization: University of Texas at Austin
+- Role: Bill & Lewis Suit Professor at School of Information, Dell Medical School
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Medical Communication, AI Chatbots
+- Technologies: Conversational AI, Chatbots
+- Healthcare Specialties: Medical Education, Patient Communication
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Scott Newman
+:PROPERTIES:
+:ID: CONTACT-SCOTT-NEWMAN
+:END:
+
+*** Contact Information
+- Name: Scott Newman
+- Organization: MiBA
+- Role: Senior VP, Life Sciences
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Oncology Data, EHR Analysis
+- Technologies: NLP, LLMs for Healthcare Data
+- Healthcare Specialties: Oncology
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Zach Liu
+:PROPERTIES:
+:ID: CONTACT-ZACH-LIU
+:END:
+
+*** Contact Information
+- Name: Zach Liu
+- Organization: MiBA
+- Role: Senior Research Scientist
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Oncology Data, EHR Analysis
+- Technologies: NLP, LLMs
+- Healthcare Specialties: Oncology, Clinical Research
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Chris Haddad
+:PROPERTIES:
+:ID: CONTACT-CHRIS-HADDAD
+:END:
+
+*** Contact Information
+- Name: Chris Haddad
+- Organization: Amazon
+- Role: Machine Learning Solutions Architect
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Healthcare Chatbots, Medical LLMs
+- Technologies: LLM-as-a-Judge, NLP, Chatbots
+- Healthcare Specialties: Patient Interaction Systems
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Yee Ang
+:PROPERTIES:
+:ID: CONTACT-YEE-ANG
+:END:
+
+*** Contact Information
+- Name: Yee Ang
+- Organization: National Healthcare Group
+- Role: Consultant
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Clinician-Patient Relationships, Conversational AI
+- Technologies: AI in Healthcare Communication
+- Healthcare Specialties: Clinical Communication
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Jonathan Gold
+:PROPERTIES:
+:ID: CONTACT-JONATHAN-GOLD
+:END:
+
+*** Contact Information
+- Name: Jonathan Gold
+- Organization: innoVet Health
+- Role: Director of Clinical Informatics
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Temporality in Medicine, LLM Logic
+- Technologies: LLMs, Rule-Based Systems
+- Healthcare Specialties: Clinical Informatics, Medical Documentation
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ritwik Jain
+:PROPERTIES:
+:ID: CONTACT-RITWIK-JAIN
+:END:
+
+*** Contact Information
+- Name: Ritwik Jain
+- Organization: John Snow Labs
+- Role: Director of Payers
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: HCC Coding, Medical Coding Automation
+- Technologies: Healthcare-Specific Language Models
+- Healthcare Specialties: Medical Coding, Billing, Risk Adjustment
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Hasham Ul Haq
+:PROPERTIES:
+:ID: CONTACT-HASHAM-UL-HAQ
+:END:
+
+*** Contact Information
+- Name: Hasham Ul Haq
+- Organization: John Snow Labs
+- Role: Sr Machine Learning Engineer
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Medical Coding, NLP in Healthcare
+- Technologies: Healthcare-Specific Language Models
+- Healthcare Specialties: HCC Coding, Medical Billing
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Shravan Koninti
+:PROPERTIES:
+:ID: CONTACT-SHRAVAN-KONINTI
+:END:
+
+*** Contact Information
+- Name: Shravan Koninti
+- Organization: Novartis
+- Role: Associate Director – DSAI
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Life Sciences, Production AI Solutions
+- Technologies: Generative AI, MLOps
+- Healthcare Specialties: Life Sciences Research, Drug Discovery
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Molly Maskrey
+:PROPERTIES:
+:ID: CONTACT-MOLLY-MASKREY
+:END:
+
+*** Contact Information
+- Name: Molly Maskrey
+- Organization: Forte Analytics
+- Role: Senior Data Scientist
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Medicare Plan Selection, Senior Healthcare
+- Technologies: Adversarial-Cooperative LLMs, Multi-Agent Systems
+- Healthcare Specialties: Medicare Planning, Healthcare Access
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ben Webster
+:PROPERTIES:
+:ID: CONTACT-BEN-WEBSTER
+:END:
+
+*** Contact Information
+- Name: Ben Webster
+- Organization: NLPLogix
+- Role: Vice President of AI Solutions
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: AI Governance, Healthcare Applications
+- Technologies: Generative AI, Governance Systems
+- Healthcare Specialties: Compliance, Ethical AI Use
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Devdatta Narote
+:PROPERTIES:
+:ID: CONTACT-DEVDATTA-NAROTE
+:END:
+
+*** Contact Information
+- Name: Devdatta Narote
+- Organization: Genentech
+- Role: Staff Data Scientist
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Adverse Event Detection, Pharma Contact Centers
+- Technologies: AI for Pharmacovigilance, NLP
+- Healthcare Specialties: Pharmacovigilance, Patient Safety
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ina Burgstaller
+:PROPERTIES:
+:ID: CONTACT-INA-BURGSTALLER
+:END:
+
+*** Contact Information
+- Name: Ina Burgstaller
+- Organization: Bionabu
+- Role: Founder, Director
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Patient Engagement, AI-Powered Personalization
+- Technologies: AI, Personalization Algorithms
+- Healthcare Specialties: Patient Experience, Engagement Systems
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Veysel Kocaman
+:PROPERTIES:
+:ID: CONTACT-VEYSEL-KOCAMAN
+:END:
+
+*** Contact Information
+- Name: Veysel Kocaman
+- Organization: John Snow Labs
+- Role: CTO
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Medical Language Models, Benchmarking
+- Technologies: Medical LLMs, Evaluation Metrics
+- Healthcare Specialties: Clinical Decision Support, Medical Research
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Shreya Rajpal
+:PROPERTIES:
+:ID: CONTACT-SHREYA-RAJPAL
+:END:
+
+*** Contact Information
+- Name: Shreya Rajpal
+- Organization: Guardrails
+- Role: CEO
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: AI Reliability, Guardrails, Safety Metrics
+- Technologies: AI Safety Systems, Evaluation Methods
+- Healthcare Specialties: Safe AI Deployment in Healthcare
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Krishnaram Kenthapadi
+:PROPERTIES:
+:ID: CONTACT-KRISHNARAM-KENTHAPADI
+:END:
+
+*** Contact Information
+- Name: Krishnaram Kenthapadi
+- Organization: Oracle
+- Role: Chief Scientist, Clinical AI
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Trustworthy Health AI, AI Validation
+- Technologies: AI, Trust Systems
+- Healthcare Specialties: Clinical AI
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Louis Ehwerhemuepha
+:PROPERTIES:
+:ID: CONTACT-LOUIS-EHWERHEMUEPHA
+:END:
+
+*** Contact Information
+- Name: Louis Ehwerhemuepha
+- Organization: Children's Hospital of Orange County
+- Role: Data Science Research Director
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Bias Testing, LLMs in Clinical Applications
+- Technologies: LLMs, Bias Detection
+- Healthcare Specialties: Ethical AI Use, Pediatric Care
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Yishay Carmiel
+:PROPERTIES:
+:ID: CONTACT-YISHAY-CARMIEL
+:END:
+
+*** Contact Information
+- Name: Yishay Carmiel
+- Organization: Meaning
+- Role: CEO
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Audio Deepfakes, Deepfake Detection
+- Technologies: Audio Security, Authentication Systems
+- Healthcare Specialties: Secure Healthcare Communication
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Kais Zhioua
+:PROPERTIES:
+:ID: CONTACT-KAIS-ZHIOUA
+:END:
+
+*** Contact Information
+- Name: Kais Zhioua
+- Organization: Tanit Healthcare Technologies
+- Role: CEO/Co-Founder
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Graph RAG, Multi-Agents in Healthcare
+- Technologies: RAG, Graph Neural Networks, Multi-Agent Systems
+- Healthcare Specialties: Reproductive Medicine, Fertility
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Somya Rai
+:PROPERTIES:
+:ID: CONTACT-SOMYA-RAI
+:END:
+
+*** Contact Information
+- Name: Somya Rai
+- Organization: EXL
+- Role: Principal AI Architect
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Agentic AI, Responsible AI, LLMOps
+- Technologies: RAG, LLMs
+- Healthcare Specialties: AI Operations in Healthcare
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ashish Kudaisya
+:PROPERTIES:
+:ID: CONTACT-ASHISH-KUDAISYA
+:END:
+
+*** Contact Information
+- Name: Ashish Kudaisya
+- Organization: EXL
+- Role: Vice President of Digital Transformation
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Digital Transformation, LLMOps
+- Technologies: Agentic AI, RAG
+- Healthcare Specialties: Healthcare Digital Transformation
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Mugdha Tasgaonkar
+:PROPERTIES:
+:ID: CONTACT-MUGDHA-TASGAONKAR
+:END:
+
+*** Contact Information
+- Name: Mugdha Tasgaonkar
+- Organization: Medtronic
+- Role: Data Science Leader
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Wearable Technology, Neurodiversity Support
+- Technologies: AI-Driven Wearables, Sensors
+- Healthcare Specialties: Remote Monitoring, Neurodiversity
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Beau Tse
+:PROPERTIES:
+:ID: CONTACT-BEAU-TSE
+:END:
+
+*** Contact Information
+- Name: Beau Tse
+- Organization: Amazon Web Services
+- Role: Partner Solutions Architect
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: SOAP Notes, Clinical Documentation
+- Technologies: AI, NLP
+- Healthcare Specialties: Medical Records, Documentation Efficiency
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Shubanshu Dixit
+:PROPERTIES:
+:ID: CONTACT-SHUBANSHU-DIXIT
+:END:
+
+*** Contact Information
+- Name: Shubanshu Dixit
+- Organization: John Snow Labs
+- Role: Solutions Architect
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Clinical Documentation, SOAP Notes
+- Technologies: AI for Medical Documentation
+- Healthcare Specialties: Clinical Documentation Efficiency
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ravi Kiran Koppichetti
+:PROPERTIES:
+:ID: CONTACT-RAVI-KIRAN-KOPPICHETTI
+:END:
+
+*** Contact Information
+- Name: Ravi Kiran Koppichetti
+- Organization: Novo Nordisk
+- Role: IT Data Engineer III
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Anomaly Detection, Predictive Maintenance
+- Technologies: Machine Learning, AI in Manufacturing
+- Healthcare Specialties: BioPharmaceutical Manufacturing
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Jabeen Fayyaz
+:PROPERTIES:
+:ID: CONTACT-JABEEN-FAYYAZ
+:END:
+
+*** Contact Information
+- Name: Jabeen Fayyaz
+- Organization: The Hospital for Sick Children
+- Role: Associate Professor
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Simulation Based Education, Medical Training
+- Technologies: AI, LLMs, Simulation Technology
+- Healthcare Specialties: Medical Education
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Nicolay Rusnachenko
+:PROPERTIES:
+:ID: CONTACT-NICOLAY-RUSNACHENKO
+:END:
+
+*** Contact Information
+- Name: Nicolay Rusnachenko
+- Organization: Bournemouth University
+- Role: Research Fellow
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Medical Image-Series, Textual Narratives
+- Technologies: LLMs, Evaluation Methods
+- Healthcare Specialties: Radiology Reports, Medical Imaging
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Yasmin Karsan
+:PROPERTIES:
+:ID: CONTACT-YASMIN-KARSAN
+:END:
+
+*** Contact Information
+- Name: Yasmin Karsan
+- Organization: Digital Clinical Safety Company
+- Role: Clinical Safety Officer and Founder
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: UK Regulation, Compliance, Healthcare AI
+- Technologies: Generative AI, NLP
+- Healthcare Specialties: Regulatory Compliance, Safe AI Implementation
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Vivek Yadav
+:PROPERTIES:
+:ID: CONTACT-VIVEK-YADAV
+:END:
+
+*** Contact Information
+- Name: Vivek Yadav
+- Organization: Presbyterian Health Services
+- Role: Senior Business System Analyst
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Ethical Implications of AI, Patient Care Decisions
+- Technologies: AI, Decision Support Systems
+- Healthcare Specialties: Clinical Decision Making, Ethics
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ouz Gencoglu
+:PROPERTIES:
+:ID: CONTACT-OUZ-GENCOGLU
+:END:
+
+*** Contact Information
+- Name: Ouz Gencoglu
+- Organization: Root Signals
+- Role: Co-Founder & Head of AI
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: GenAI Evaluation, Healthcare Applications
+- Technologies: Generative AI, Evaluation Frameworks
+- Healthcare Specialties: Multiple Healthcare Contexts
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Vasantha Kumar Venugopal
+:PROPERTIES:
+:ID: CONTACT-VASANTHA-KUMAR-VENUGOPAL
+:END:
+
+*** Contact Information
+- Name: Vasantha Kumar Venugopal
+- Organization: School of AI, Amrita Vishwapeetham & CARPL.ai
+- Role: Adjunct Professor & Chief Medical Officer
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Foundation Models in Radiology, Vision-Language Models
+- Technologies: Foundation Models, Vision-Language Models
+- Healthcare Specialties: Radiology, Medical Imaging
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 
+
+** Ayindri Banerjee
+:PROPERTIES:
+:ID: CONTACT-AYINDRI-BANERJEE
+:END:
+
+*** Contact Information
+- Name: Ayindri Banerjee
+- Organization: Humana
+- Role: Data Science & AI Leader
+- Email: 
+- LinkedIn: 
+- Twitter/X: 
+
+*** Interests
+- Research Areas: Post-Acute Home Healthcare, Personalized Care
+- Technologies: Generative AI, Personalization Algorithms
+- Healthcare Specialties: Home Healthcare, Post-Acute Care
+
+*** Interaction Notes
+- Date: 
+- Context: Presenter at NLP Summit Healthcare 2025
+- Discussion Topics: 
+- Follow-up Items: 

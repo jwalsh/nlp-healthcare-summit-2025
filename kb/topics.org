@@ -1,0 +1,422 @@
+#+TITLE: NLP Summit Healthcare 2025 Knowledge Base Topics
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* NLP Summit Healthcare 2025 Knowledge Base Topics
+
+** Medical Language Models (Medical LLMs)
+:PROPERTIES:
+:ID: TOPIC-MEDICAL-LLMS
+:END:
+
+*** Topic Information
+- Name: Medical Language Models (Medical LLMs)
+- Category: NLP/Healthcare/Technology
+- Related Sessions: SESSION-D1-S1, SESSION-D1-S7C, SESSION-D2-S1
+- Key Contacts: David Talby, Jonathan Gold, Veysel Kocaman
+
+*** Details
+- Description: Specialized language models trained on medical literature, clinical notes, and healthcare data to perform healthcare-specific tasks.
+- Current State: Medical LLMs are being developed with advanced capabilities for document understanding, reasoning, and conversation, with evaluation frameworks emerging.
+- Future Directions: Integration with clinical workflows, improved reasoning capabilities, and specialized evaluations.
+- Healthcare Applications: Clinical decision support, patient journey analysis, cohort building, medical documentation, clinical reasoning.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Appears to be a major theme across multiple sessions at the summit.
+
+** Vision-Language Models in Medical Imaging
+:PROPERTIES:
+:ID: TOPIC-VISION-LANGUAGE-MEDICAL-IMAGING
+:END:
+
+*** Topic Information
+- Name: Vision-Language Models in Medical Imaging
+- Category: Healthcare/Technology
+- Related Sessions: SESSION-D1-S2, SESSION-D2-S9B
+- Key Contacts: Sahar Kazemzadeh, Andreas Steiner, Vasantha Kumar Venugopal
+
+*** Details
+- Description: Models that combine vision and language capabilities for interpreting medical images and generating reports.
+- Current State: Open-weight models like PaliGemma-CXR are being adapted for chest X-ray interpretation, with foundation models transforming radiology.
+- Future Directions: Improved accuracy, multi-modal integration, and wider adoption in clinical settings.
+- Healthcare Applications: Radiology image interpretation, medical reporting, clinical decision support.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Significant advances in adapting general vision-language models for medical applications.
+
+** Healthcare Chatbots and Conversational AI
+:PROPERTIES:
+:ID: TOPIC-HEALTHCARE-CHATBOTS
+:END:
+
+*** Topic Information
+- Name: Healthcare Chatbots and Conversational AI
+- Category: NLP/Healthcare/Technology
+- Related Sessions: SESSION-D1-S6B, SESSION-D1-S7A, SESSION-D1-S7B
+- Key Contacts: Ying Ding, Chris Haddad, Yee Ang
+
+*** Details
+- Description: AI systems designed for natural language conversation in healthcare contexts, including patient interaction and clinical support.
+- Current State: Being productized with guardrails like LLM-as-a-Judge approaches, with focus on medical communication and clinician-patient relationships.
+- Future Directions: More personalized and context-aware interactions, improved safety features.
+- Healthcare Applications: Patient communication, medical education, clinical support, patient engagement.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Emphasis on balancing utility with safety and reliability.
+
+** AI Governance and Ethics in Healthcare
+:PROPERTIES:
+:ID: TOPIC-AI-GOVERNANCE-ETHICS
+:END:
+
+*** Topic Information
+- Name: AI Governance and Ethics in Healthcare
+- Category: Healthcare/Research/Technology
+- Related Sessions: SESSION-D1-S9A, SESSION-D2-S3, SESSION-D2-S4, SESSION-D2-S8C
+- Key Contacts: Ben Webster, David Talby, Krishnaram Kenthapadi, Louis Ehwerhemuepha, Vivek Yadav
+
+*** Details
+- Description: Frameworks, practices, and considerations for ensuring responsible, ethical, and safe use of AI in healthcare.
+- Current State: Focus on automating governance, testing bias, building trustworthy systems, and evaluating ethical implications.
+- Future Directions: Standardized practices, regulatory alignment, and improved testing methodologies.
+- Healthcare Applications: Safety, compliance, bias mitigation, patient-centered care.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Strong presence at the summit, indicating industry focus on responsible AI deployment.
+
+** Generative AI in Healthcare
+:PROPERTIES:
+:ID: TOPIC-GENERATIVE-AI-HEALTHCARE
+:END:
+
+*** Topic Information
+- Name: Generative AI in Healthcare
+- Category: Healthcare/Technology
+- Related Sessions: SESSION-D1-S4, SESSION-D1-S6A, SESSION-D1-S8B, SESSION-D2-S9A, SESSION-D2-S9C
+- Key Contacts: Chris Markson, Jonathan McCoy, Shravan Koninti, Ouz Gencoglu, Ayindri Banerjee
+
+*** Details
+- Description: AI systems that can generate new content, from text to data, with applications across healthcare domains.
+- Current State: Being applied to data extraction, point of care, life sciences, and personalized care pathways.
+- Future Directions: More specialized models, improved evaluation frameworks, and integration with existing healthcare systems.
+- Healthcare Applications: Clinical support, drug discovery, personalized care, home healthcare.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Broad adoption across multiple healthcare domains, with focus on practical implementation.
+
+** Retrieval Augmented Generation (RAG) in Healthcare
+:PROPERTIES:
+:ID: TOPIC-RAG-HEALTHCARE
+:END:
+
+*** Topic Information
+- Name: Retrieval Augmented Generation (RAG) in Healthcare
+- Category: NLP/Technology
+- Related Sessions: SESSION-D2-S6A, SESSION-D2-S6B
+- Key Contacts: Kais Zhioua, Somya Rai, Ashish Kudaisya
+
+*** Details
+- Description: Systems that combine retrieval of relevant information with generative AI capabilities to produce more accurate, contextualized, and verifiable outputs.
+- Current State: Being applied in specialized areas like reproductive medicine and as part of agentic AI systems.
+- Future Directions: More sophisticated graph-based approaches, multi-agent RAG systems, and domain-specific implementations.
+- Healthcare Applications: Clinical decision support, information retrieval, knowledge management.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Growing adoption with specialized architectures emerging for healthcare applications.
+
+** Medical Documentation and Coding
+:PROPERTIES:
+:ID: TOPIC-MEDICAL-DOCUMENTATION-CODING
+:END:
+
+*** Topic Information
+- Name: Medical Documentation and Coding
+- Category: Healthcare/NLP
+- Related Sessions: SESSION-D1-S8A, SESSION-D2-S7A
+- Key Contacts: Ritwik Jain, Hasham Ul Haq, Beau Tse, Shubanshu Dixit
+
+*** Details
+- Description: The application of AI and NLP to automate, improve, and enhance medical documentation and coding processes.
+- Current State: Focus on HCC coding with healthcare-specific language models and generating SOAP notes to enhance clinical documentation efficiency.
+- Future Directions: Greater automation, improved accuracy, and integration with EHR systems.
+- Healthcare Applications: Medical coding, billing, risk adjustment, clinical documentation.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Addresses significant pain points in healthcare administration and clinical workflows.
+
+** AI Safety and Reliability in Healthcare
+:PROPERTIES:
+:ID: TOPIC-AI-SAFETY-RELIABILITY
+:END:
+
+*** Topic Information
+- Name: AI Safety and Reliability in Healthcare
+- Category: Healthcare/Technology
+- Related Sessions: SESSION-D2-S2, SESSION-D2-S5
+- Key Contacts: Shreya Rajpal, Yishay Carmiel
+
+*** Details
+- Description: Methods, tools, and practices for ensuring the safety, reliability, and security of AI systems in healthcare.
+- Current State: Focus on measuring efficacy of AI reliability infrastructure (guardrails) and addressing threats like audio deepfakes.
+- Future Directions: Improved testing frameworks, more sophisticated guardrails, and better detection mechanisms.
+- Healthcare Applications: Safe AI deployment, secure healthcare communication, risk mitigation.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Critical area for healthcare AI adoption given high stakes of medical applications.
+
+** AI in Specialized Medical Domains
+:PROPERTIES:
+:ID: TOPIC-AI-SPECIALIZED-MEDICAL
+:END:
+
+*** Topic Information
+- Name: AI in Specialized Medical Domains
+- Category: Healthcare/NLP
+- Related Sessions: SESSION-D1-S3, SESSION-D1-S6C, SESSION-D1-S8C, SESSION-D2-S6A, SESSION-D2-S9C
+- Key Contacts: Michael Ash, Scott Newman, Zach Liu, Molly Maskrey, Kais Zhioua, Ayindri Banerjee
+
+*** Details
+- Description: Applications of AI and NLP in specialized areas of medicine and healthcare.
+- Current State: Being applied in functional medicine, oncology, Medicare planning, reproductive medicine, and post-acute home healthcare.
+- Future Directions: More specialized models and applications for different medical domains.
+- Healthcare Applications: Domain-specific clinical decision support, personalized care, medical research.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Shows the breadth of specialized applications emerging across healthcare domains.
+
+** Healthcare AI Evaluation and Benchmarking
+:PROPERTIES:
+:ID: TOPIC-HEALTHCARE-AI-EVALUATION
+:END:
+
+*** Topic Information
+- Name: Healthcare AI Evaluation and Benchmarking
+- Category: Healthcare/Research/Technology
+- Related Sessions: SESSION-D2-S1, SESSION-D2-S9A
+- Key Contacts: Veysel Kocaman, Ouz Gencoglu
+
+*** Details
+- Description: Methods, metrics, and frameworks for evaluating AI and NLP models in healthcare applications.
+- Current State: Focus on meaningful benchmarks for real-world applications and comprehensive evaluation of generative AI.
+- Future Directions: Standardized evaluation frameworks, clinically relevant metrics, and real-world performance assessments.
+- Healthcare Applications: Model selection, quality assurance, regulatory compliance.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Essential for ensuring that AI solutions meet healthcare quality and safety requirements.
+
+** Wearable Technology and AI
+:PROPERTIES:
+:ID: TOPIC-WEARABLE-TECHNOLOGY-AI
+:END:
+
+*** Topic Information
+- Name: Wearable Technology and AI
+- Category: Healthcare/Technology
+- Related Sessions: SESSION-D2-S6C
+- Key Contacts: Mugdha Tasgaonkar
+
+*** Details
+- Description: Integration of AI with wearable devices for healthcare monitoring, diagnosis, and support.
+- Current State: Being applied to enhance patient outcomes and support neurodiversity.
+- Future Directions: More sophisticated sensors, improved algorithms, and wider clinical adoption.
+- Healthcare Applications: Remote monitoring, neurodiversity support, continuous health tracking.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Represents the intersection of hardware, AI, and healthcare delivery.
+
+** AI in Pharmaceutical Applications
+:PROPERTIES:
+:ID: TOPIC-AI-PHARMACEUTICAL
+:END:
+
+*** Topic Information
+- Name: AI in Pharmaceutical Applications
+- Category: Healthcare/Technology
+- Related Sessions: SESSION-D1-S9B, SESSION-D2-S7B
+- Key Contacts: Devdatta Narote, Ravi Kiran Koppichetti
+
+*** Details
+- Description: Applications of AI and machine learning in pharmaceutical development, manufacturing, and safety monitoring.
+- Current State: Being applied to adverse event detection in contact centers and anomaly detection/predictive maintenance in manufacturing.
+- Future Directions: More sophisticated monitoring systems, improved predictive capabilities, and broader adoption.
+- Healthcare Applications: Pharmacovigilance, manufacturing quality, supply chain optimization.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Addresses critical needs in pharmaceutical development and safety.
+
+** Medical Education and AI
+:PROPERTIES:
+:ID: TOPIC-MEDICAL-EDUCATION-AI
+:END:
+
+*** Topic Information
+- Name: Medical Education and AI
+- Category: Healthcare/Education
+- Related Sessions: SESSION-D2-S7C
+- Key Contacts: Jabeen Fayyaz
+
+*** Details
+- Description: Applications of AI and NLP in medical education and training.
+- Current State: Focus on the use of AI and LLMs in simulation-based education.
+- Future Directions: More immersive training environments, personalized learning, and wider adoption.
+- Healthcare Applications: Clinical training, medical school education, continuing medical education.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Represents the potential to transform how healthcare professionals are trained.
+
+** Regulatory Compliance for Healthcare AI
+:PROPERTIES:
+:ID: TOPIC-REGULATORY-COMPLIANCE
+:END:
+
+*** Topic Information
+- Name: Regulatory Compliance for Healthcare AI
+- Category: Healthcare/Regulation
+- Related Sessions: SESSION-D2-S8B
+- Key Contacts: Yasmin Karsan
+
+*** Details
+- Description: Approaches to ensuring AI systems in healthcare meet relevant regulatory requirements.
+- Current State: Focus on UK regulation and compliance for generative AI and NLP in healthcare.
+- Future Directions: Evolving regulatory frameworks, improved compliance methodologies, and international standards.
+- Healthcare Applications: Safe and legally compliant AI implementation.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Critical area for healthcare organizations implementing AI solutions.
+
+** Patient Engagement and Personalization
+:PROPERTIES:
+:ID: TOPIC-PATIENT-ENGAGEMENT
+:END:
+
+*** Topic Information
+- Name: Patient Engagement and Personalization
+- Category: Healthcare
+- Related Sessions: SESSION-D1-S9C, SESSION-D2-S9C
+- Key Contacts: Ina Burgstaller, Ayindri Banerjee
+
+*** Details
+- Description: AI-powered approaches to improve patient engagement and deliver personalized healthcare experiences.
+- Current State: Focus on AI-powered personalization for patient engagement and personalized care pathways in home healthcare.
+- Future Directions: More sophisticated personalization algorithms, improved patient experience, and wider adoption.
+- Healthcare Applications: Patient engagement, adherence, satisfaction, and outcomes.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Represents the potential for AI to improve patient experience and outcomes.
+
+** Clinical Information Access and Retrieval
+:PROPERTIES:
+:ID: TOPIC-CLINICAL-INFORMATION
+:END:
+
+*** Topic Information
+- Name: Clinical Information Access and Retrieval
+- Category: Healthcare/NLP
+- Related Sessions: SESSION-D1-S5
+- Key Contacts: Vickie Reyes, Dia Trambitas
+
+*** Details
+- Description: Systems and approaches for accessing, retrieving, and utilizing clinical information effectively.
+- Current State: Focus on matching patients and answers to the largest clinical guidelines library in the world.
+- Future Directions: Improved relevance, personalization, and integration with clinical workflows.
+- Healthcare Applications: Clinical decision support, evidence-based practice, patient education.
+
+*** Resources
+- Papers: 
+- Websites: 
+- Tools: 
+- Code Repositories: 
+
+*** Notes
+- Addresses the challenge of accessing and utilizing the vast body of clinical knowledge.
