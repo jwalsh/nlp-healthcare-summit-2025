@@ -1,0 +1,102 @@
+#+TITLE: Research Papers Tracker
+#+AUTHOR: jwalsh
+#+DATE: [2025-03-31]
+#+PROPERTY: header-args :tangle yes :mkdirp yes
+
+* Research Papers for NLP Summit Healthcare 2025
+
+** PaliGemma-CXR: Vision-Language Model for Chest X-ray Interpretation
+:PROPERTIES:
+:ID: PAPER-PALIGEMMA-CXR
+:DEADLINE: <2025-03-31>
+:END:
+
+*** Paper Information
+- Title: PaliGemma-CXR: Adapting an Open-Weight Vision-Language Model for Chest X-ray Interpretation
+- Authors: Sahar Kazemzadeh, Andreas Steiner, et al.
+- Publication: TBD
+- Year: 2025
+- URL: 
+
+*** Key Points
+- PaliGemma is an open-weight vision-language model adapted for medical imaging
+- Specialization on chest X-ray interpretation
+- Adaptation techniques for medical domain
+- Fine-tuning approach using clinical datasets
+- Performance benchmarks compared to existing models
+
+*** Relevance to Summit
+- Related to Sahar Kazemzadeh's presentation on April 1
+- Demonstrates transfer learning from general domain to medical imaging
+- Showcases open model approach in healthcare
+- Important for radiology applications
+
+*** Notes
+- Need to summarize model architecture
+- Gather benchmark results
+- List key advantages over previous approaches
+- Identify clinical use cases
+
+** Medical LLM Evaluation Benchmarks
+:PROPERTIES:
+:ID: PAPER-MED-LLM-BENCHMARKS
+:DEADLINE: <2025-03-31>
+:END:
+
+*** Paper Information
+- Title: Benchmarks That Matter: Evaluating Medical Language Models for Real-World Applications
+- Authors: Veysel Kocaman, et al.
+- Publication: TBD
+- Year: 2025
+- URL: 
+
+*** Key Points
+- Gap between academic benchmarks and clinical utility
+- Real-world evaluation frameworks for medical LLMs
+- Domain-specific metrics for healthcare applications
+- Evaluation across different healthcare specialties
+- Benchmark datasets for clinical scenarios
+
+*** Relevance to Summit
+- Related to Veysel Kocaman's presentation on April 2
+- Critical for differentiating model performance in healthcare
+- Framework for assessing clinical utility of language models
+- Helps practitioners select appropriate models for specific tasks
+
+*** Notes
+- Complete literature review of existing benchmarks
+- Summarize proposed evaluation framework
+- List key metrics for clinical applications
+- Identify gaps in current evaluation approaches
+
+** Graph RAG in Reproductive Medicine
+:PROPERTIES:
+:ID: PAPER-GRAPH-RAG
+:DEADLINE: <2025-03-31>
+:END:
+
+*** Paper Information
+- Title: Three-Layer Fixed Entity Architecture in Graph RAG Multi-Agents in Reproductive Medicine
+- Authors: Kais Zhioua, et al.
+- Publication: TBD
+- Year: 2025
+- URL: 
+
+*** Key Points
+- Graph-based Retrieval Augmented Generation (RAG) architecture
+- Fixed entity modeling across three layers
+- Multi-agent approach for reproductive medicine
+- Knowledge representation for medical entities
+- Integration of domain knowledge with NLP
+
+*** Relevance to Summit
+- Related to Kais Zhioua's presentation on April 2
+- Novel architecture for medical knowledge integration
+- Application in specialized healthcare domain
+- Multi-agent systems for clinical decision support
+
+*** Notes
+- Diagram the three-layer architecture
+- Explain graph-based retrieval mechanisms
+- Detail agent communication protocols
+- Identify advantages for reproductive medicine applications

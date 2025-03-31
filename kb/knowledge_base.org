@@ -5,6 +5,9 @@
 
 * NLP Summit Healthcare 2025 Knowledge Base
 
+** Critical Research for Conference (EOD Deadline)
+See [[file:research_papers.org][Research Papers]] for detailed information on papers that need to be reviewed before tomorrow's conference.
+
 ** Topic Template
 :PROPERTIES:
 :ID: TOPIC-TEMPLATE

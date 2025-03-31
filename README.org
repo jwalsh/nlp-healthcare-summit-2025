@@ -15,6 +15,11 @@ This repository tracks sessions, contacts, and knowledge base topics for the NLP
 - =kb/= - Knowledge base topics and notes
 - =docs/= - Generated documentation and reports
 
+** TODO Research Papers to Complete by EOD [0/3]
+- [ ] Complete summary of PaliGemma-CXR paper for Sahar Kazemzadeh's presentation
+- [ ] Finalize literature review on Medical LLM evaluation benchmarks for Veysel Kocaman's talk
+- [ ] Prepare notes on Graph RAG architecture for Kais Zhioua's presentation
+
 ** System Model
 #+begin_src mermaid :file docs/system-model.png :exports results
 graph TD
