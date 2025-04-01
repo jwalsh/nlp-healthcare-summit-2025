@@ -6,6 +6,8 @@
 * NLP Summit Healthcare 2025 Tracking Repository
 This repository is designed to track sessions, contacts, and knowledge base topics for the [[https://www.nlpsummit.org/healthcare-2025/][NLP Summit Healthcare 2025]] event.
 
+*IMPORTANT:* Live streams for the conference will be available at [[https://www.nlpsummit.org/nlp-summit-healthcare-2024-watch-now/][NLP Summit Healthcare 2024 Watch Now]].
+
 ** Overview
 This repository provides a structured approach to tracking information related to the NLP Summit Healthcare 2025 conference, including:
 
